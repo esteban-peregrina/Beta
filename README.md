@@ -1,4 +1,4 @@
-This code was a personnal attempt at creating a neural network from scratch. 
+This code was a personal attempt at creating a neural network from scratch. 
 
 It was done in April 2023 durign my first year of french "CPI".
 
